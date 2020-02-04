@@ -1,3 +1,6 @@
+<?php
+echo 'hel........................lo';
+?>
 <!DOCTYPE html>
 <html>
   <head>
