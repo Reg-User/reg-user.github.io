@@ -1,1 +1,1 @@
-# reg_user.github.io
+# reg-user.github.io
